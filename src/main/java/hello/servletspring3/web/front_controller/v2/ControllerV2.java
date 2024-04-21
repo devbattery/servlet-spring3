@@ -10,6 +10,7 @@ public interface ControllerV2 {
 
     /**
      * 서블릿 메서드랑 똑같은 모양의 메서드
+     *
      * @return MyView
      */
     MyView process(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException;

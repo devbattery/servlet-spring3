@@ -1,6 +1,5 @@
 package hello.servletspring3.web.front_controller.v4;
 
-import hello.servletspring3.web.front_controller.ModelView;
 import hello.servletspring3.web.front_controller.MyView;
 import hello.servletspring3.web.front_controller.v4.controller.MemberFormControllerV4;
 import hello.servletspring3.web.front_controller.v4.controller.MemberListControllerV4;
